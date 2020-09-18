@@ -1,0 +1,2 @@
+# wp-capabilities
+WordPress Capabilities
